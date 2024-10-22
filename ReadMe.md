@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hello there! I'm an MCA student passionate about software engineering and machine learning. My journey into the world of coding began with PHP, Python, and HTML. I love to explore the intersection of technology and creativity through my projects. Let's connect and build something awesome together! 🚀<br>
 
+🌐 Check out my portfolio: [amalantoney.com](https://amalantoney.com)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Amal_antoney) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amal-antoney-35bb57210) 
